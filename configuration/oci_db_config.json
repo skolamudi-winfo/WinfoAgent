@@ -1,0 +1,5 @@
+{
+	"User": "WKSP_WINFOAI",
+	"Password": "WElcome_123#",
+	"dsn": "(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ap-tokyo-1.oraclecloud.com))(connect_data=(service_name=gc684a13676c116_ebsai_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))"
+}

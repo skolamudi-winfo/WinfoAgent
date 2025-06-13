@@ -1,0 +1,20 @@
+{
+	"projects": [
+	{
+		"jira_server": "https://winfosolutions.atlassian.net",
+        "jira_username": "mehabub.eklaspur@winfosolutions.com",
+        "jira_api_token": "ATATT3xFfGF0QSEoevU6MU6NP6uXQafnGq-rL9DcgHxK9zA6BX1_IG5NgQbK1ycz4nupEq0hDEmcGPuSd-QS5uZFq9PMQL2clISiODNg-kkYnVoWIkfJ6TrJlvYO-HM4uvHukkW0moFQUW0qsBayIQoUpB82bApeRcQFVTb9fA_WKbYqFRbF_0U=E390EC28",
+        "jira_project_key": "AEI",
+        "jira_project_name": "AEI",
+        "product_name": "WinfoBots"
+	},
+	{
+		"jira_server": "https://winfosolutions.atlassian.net",
+        "jira_username": "mehabub.eklaspur@winfosolutions.com",
+        "jira_api_token": "ATATT3xFfGF0QSEoevU6MU6NP6uXQafnGq-rL9DcgHxK9zA6BX1_IG5NgQbK1ycz4nupEq0hDEmcGPuSd-QS5uZFq9PMQL2clISiODNg-kkYnVoWIkfJ6TrJlvYO-HM4uvHukkW0moFQUW0qsBayIQoUpB82bApeRcQFVTb9fA_WKbYqFRbF_0U=E390EC28",
+        "jira_project_key": "NUF",
+        "jira_project_name": "NUFARM",
+        "product_name": "WinfoBots"
+	}
+	]
+}

@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaazybh3spsp6bsp3jmvpdfbjih6fgftd6gpmkmfmarqi5knwrmcd7q
+fingerprint=aa:a5:80:a4:ae:18:a3:0c:a9:ee:48:55:5b:70:e4:3a
+tenancy=ocid1.tenancy.oc1..aaaaaaaar7xiy2foczxdmh4j7zr3iwtouaumndva3wvs5omx2neaz6m775dq
+region=uk-london-1
+key_file=C:/Users/SatishKumarKolamudi/PycharmProjects/certs/oci_private.pem

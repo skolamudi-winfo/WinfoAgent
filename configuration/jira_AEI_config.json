@@ -1,0 +1,9 @@
+{
+  "JIRA_SERVER": "https://winfosolutions.atlassian.net",
+  "JIRA_USERNAME": "koteswararao.chinni@winfosolutions.com",
+  "JIRA_API_TOKEN": "ATATT3xFfGF0jTSJJ9QMOsU1DPQOt138nxgRAkSgeQ3PqeMo1CEmrPfeydGj_vE_3ANltquJdHhcbFG9c9Yi-fPuUbUJQUUZh3XvsXJ2yEF4dSk-8hSOOZD17UOeLsSs6M1POsaaMo6bNH1h3zdhc7c7WgTw7RWsoPRrPXIqiPQazIvPKDnHuW4=37D85285",
+  "GCS_BUCKET_NAME": "winfobots",
+  "PROJECT_ID": "your-google-cloud-project-id",
+  "LOCATION": "us-central1",
+  "JIRA_PROJECT_NAME": "AEI"
+}
